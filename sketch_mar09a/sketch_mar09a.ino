@@ -6,7 +6,7 @@
  *  PID algoritmasında kullanılan Kp Kd ve Ki değerlerini tanımlıyoruz.
  *  Bu değerleri deneme yanılma yoluyla hesapladık.
  *  İlk olarak Kp değerini test ettik ve robotumuzun kafa sallama durumunu en aza indirgeyecek değeri bulduk.
- *  Daha sonra Kd değerini test ettik robotun dönüşerdeki hassasiyetini arttırdık. Böylece döüşlerde yoldan çıkma ihtimalini yok ettik.
+ *  Daha sonra Kd değerini test ettik robotun dönüşlerdeki hassasiyetini arttırdık. Böylece döüşlerde yoldan çıkma ihtimalini yok ettik.
  *  Son olarak da Ki değerini ekleyip duyarlılığını keskin dönüşlerde de arttırmış olduk.
 */
 
